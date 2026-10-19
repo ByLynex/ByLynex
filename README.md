@@ -1,28 +1,42 @@
-<a href="https://codevostudio.de">
-  <img src="assets/banner.svg" width="100%" alt="CodevoStudio – Independent software studio" />
-</a>
+<div align="center">
+
+<a href="https://codevostudio.de"><img src="assets/logo.png" width="96" alt="CodevoStudio" /></a>
+
+# Hi, ich bin LYNEX
+
+Gründer von **[CodevoStudio](https://codevostudio.de)**, einem unabhängigen Software-Studio aus Deutschland.<br/>
+Ich baue eigene Web-Apps, Desktop-Tools, Discord-Bots und Spiele, die meisten davon kostenlos nutzbar.
 
 <br/>
 
-<p align="center">
-  Hey, I'm <b>LYNEX</b>, founder of <a href="https://codevostudio.de"><b>CodevoStudio</b></a>.<br/>
-  I build my own web apps, desktop tools, Discord bots and games, most of them free to use.
-</p>
+<a href="https://codevostudio.de"><img src="assets/btn-website.svg" height="40" alt="Website" /></a>
+<a href="https://discord.gg/DftTSga3sh"><img src="assets/btn-discord.svg" height="40" alt="Discord beitreten" /></a>
+<a href="https://www.instagram.com/codevostudio/"><img src="assets/btn-instagram.svg" height="40" alt="Instagram" /></a>
+<a href="https://x.com/CodevoStudio"><img src="assets/btn-x.svg" height="40" alt="Auf X folgen" /></a>
 
-<p align="center">
-  <a href="https://codevostudio.de"><img src="assets/btn-website.svg" height="40" alt="codevostudio.de" /></a>
-  <a href="https://discord.gg/DftTSga3sh"><img src="assets/btn-discord.svg" height="40" alt="Join Discord" /></a>
-  <a href="https://www.instagram.com/codevostudio/"><img src="assets/btn-instagram.svg" height="40" alt="Instagram" /></a>
-  <a href="https://x.com/CodevoStudio"><img src="assets/btn-x.svg" height="40" alt="X" /></a>
-</p>
+<br/><br/>
 
-<p align="center">
-  <a href="https://discord.gg/DftTSga3sh"><img src="https://img.shields.io/discord/1130491330733289563?style=flat-square&logo=discord&logoColor=white&label=community&labelColor=111113&color=5865F2" alt="Discord members online" /></a>
+<a href="https://discord.gg/DftTSga3sh"><img src="https://img.shields.io/discord/1130491330733289563?style=flat-square&logo=discord&logoColor=white&label=Community&labelColor=111113&color=5865F2" alt="Discord online" /></a>
+
+</div>
+
+<br/>
+
+<img src="assets/stats.svg" width="100%" alt="4 Projekte · gegründet 2025 · 100 % selbst entwickelt · die meisten Tools kostenlos" />
+
+<br/>
+
+### Was ich baue
+
+<p>
+  <img src="assets/what-web.svg" width="32.5%" alt="Web-Apps" />
+  <img src="assets/what-desktop.svg" width="32.5%" alt="Desktop-Tools" />
+  <img src="assets/what-bots.svg" width="32.5%" alt="Bots und Spiele" />
 </p>
 
 <br/>
 
-<h3>Projects</h3>
+### Projekte
 
 <p>
   <a href="https://codevostudio.de/projects/localdrop"><img src="assets/card-localdrop.svg" width="49%" alt="LocalDrop" /></a>
@@ -33,14 +47,21 @@
 
 <br/>
 
-<h3>Tech stack</h3>
+### Technik
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,js,electron,mongodb,discordjs,git&theme=dark&perline=8" alt="Next.js, React, Node.js, JavaScript, Electron, MongoDB, Discord.js, Git" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,js,electron,mongodb,discordjs,git,vscode&theme=dark&perline=9" alt="Next.js, React, Node.js, JavaScript, Electron, MongoDB, Discord.js, Git, VS Code" />
 </p>
 
 <br/>
 
-<p align="center">
-  <sub>Building in Germany · Feedback & ideas welcome on <a href="https://discord.gg/DftTSga3sh">Discord</a> · Lieber auf Deutsch? <a href="https://codevostudio.de">codevostudio.de</a></sub>
-</p>
+### Gerade
+
+- Arbeite an **CS | Helper** und **Toolbox**
+- Feedback, Ideen oder einen Fehler gefunden? Am schnellsten im **[Discord](https://discord.gg/DftTSga3sh)** oder über **[codevostudio.de/kontakt](https://codevostudio.de/kontakt)**
+
+<br/>
+
+<picture>
+  <img src="https://raw.githubusercontent.com/ByLynex/ByLynex/output/snake-dark.svg" width="100%" alt="Beitrags-Schlange" />
+</picture>
