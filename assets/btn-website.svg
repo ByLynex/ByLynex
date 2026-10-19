@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="178" height="44" viewBox="0 0 178 44">
+  <rect x="0.5" y="0.5" width="177" height="43" rx="10" fill="#16161a" stroke="#ffffff" stroke-opacity="0.12"/>
+  <g transform="translate(16 12)" fill="#ffffff"><path d="M10 0a10 10 0 1 0 0 20 10 10 0 0 0 0-20Zm6.9 6h-3a15.6 15.6 0 0 0-1.4-4A8 8 0 0 1 16.9 6ZM10 2c.8 1.1 1.5 2.5 1.9 4H8.1c.4-1.5 1.1-2.9 1.9-4ZM2.3 12a8 8 0 0 1 0-4h3.4a16.5 16.5 0 0 0 0 4H2.3Zm.8 2h3a15.6 15.6 0 0 0 1.4 4 8 8 0 0 1-4.4-4Zm3-8h-3a8 8 0 0 1 4.4-4A15.6 15.6 0 0 0 6.1 6ZM10 18c-.8-1.1-1.5-2.5-1.9-4h3.8c-.4 1.5-1.1 2.9-1.9 4Zm2.3-6H7.7a14.7 14.7 0 0 1 0-4h4.6a14.7 14.7 0 0 1 0 4Zm.2 6a15.6 15.6 0 0 0 1.4-4h3a8 8 0 0 1-4.4 4Zm1.8-6a16.5 16.5 0 0 0 0-4h3.4a8 8 0 0 1 0 4h-3.4Z"/></g>
+  <text x="46" y="27.5" fill="#ffffff" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" font-weight="600">codevostudio.de</text>
+</svg>
