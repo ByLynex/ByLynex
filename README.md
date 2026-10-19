@@ -24,28 +24,20 @@ I build my own web apps, desktop tools, Discord bots and games, most of them fre
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <img src="assets/LocalDrop.png" width="44" align="left" />
-      <b><a href="https://codevostudio.de/projects/localdrop">LocalDrop</a></b> &nbsp;<img src="https://img.shields.io/badge/live-34d399?style=flat-square" /><br/>
-      <sub>Send files between your devices. No cloud, no account, just drag and drop.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <img src="assets/CSHelper.png" width="44" align="left" />
-      <b><a href="https://codevostudio.de/projekte">CS | Helper</a></b> &nbsp;<img src="https://img.shields.io/badge/in_development-fbbf24?style=flat-square" /><br/>
-      <sub>Public moderation and utility bot for Discord servers.</sub>
-    </td>
+    <td width="64" align="center"><a href="https://codevostudio.de/projects/localdrop"><img src="assets/LocalDrop.png" width="48" /></a></td>
+    <td><b><a href="https://codevostudio.de/projects/localdrop">LocalDrop</a></b> &nbsp;<img src="https://img.shields.io/badge/live-34d399?style=flat-square" /><br/>Send files between your devices. No cloud, no account, just drag and drop.</td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <img src="assets/Toolbox.png" width="44" align="left" />
-      <b><a href="https://codevostudio.de/projects/toolbox">Toolbox</a></b> &nbsp;<img src="https://img.shields.io/badge/in_development-fbbf24?style=flat-square" /><br/>
-      <sub>Handy little tools for everyday tasks, right in your browser.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <img src="assets/Frog-Merge.png" width="44" align="left" />
-      <b><a href="https://codevostudio.de/projects/frog-merge">Frog Merge</a></b> &nbsp;<img src="https://img.shields.io/badge/paused-71717a?style=flat-square" /><br/>
-      <sub>Merge browser game with 50+ unique frogs to unlock.</sub>
-    </td>
+    <td width="64" align="center"><a href="https://codevostudio.de/projekte"><img src="assets/CSHelper.png" width="48" /></a></td>
+    <td><b><a href="https://codevostudio.de/projekte">CS | Helper</a></b> &nbsp;<img src="https://img.shields.io/badge/in_development-fbbf24?style=flat-square" /><br/>Public moderation and utility bot for Discord servers.</td>
+  </tr>
+  <tr>
+    <td width="64" align="center"><a href="https://codevostudio.de/projects/toolbox"><img src="assets/Toolbox.png" width="48" /></a></td>
+    <td><b><a href="https://codevostudio.de/projects/toolbox">Toolbox</a></b> &nbsp;<img src="https://img.shields.io/badge/in_development-fbbf24?style=flat-square" /><br/>Handy little tools for everyday tasks, right in your browser.</td>
+  </tr>
+  <tr>
+    <td width="64" align="center"><a href="https://codevostudio.de/projects/frog-merge"><img src="assets/Frog-Merge.png" width="48" /></a></td>
+    <td><b><a href="https://codevostudio.de/projects/frog-merge">Frog Merge</a></b> &nbsp;<img src="https://img.shields.io/badge/paused-71717a?style=flat-square" /><br/>Merge browser game with 50+ unique frogs to unlock.</td>
   </tr>
 </table>
 
