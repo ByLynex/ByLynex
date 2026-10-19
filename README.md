@@ -9,10 +9,10 @@ Ich baue eigene Web-Apps, Desktop-Tools, Discord-Bots und Spiele, die meisten da
 
 <br/>
 
-<a href="https://codevostudio.de"><img src="assets/btn-website.svg" height="40" alt="Website" /></a>
-<a href="https://discord.gg/DftTSga3sh"><img src="assets/btn-discord.svg" height="40" alt="Discord beitreten" /></a>
-<a href="https://www.instagram.com/codevostudio/"><img src="assets/btn-instagram.svg" height="40" alt="Instagram" /></a>
-<a href="https://x.com/CodevoStudio"><img src="assets/btn-x.svg" height="40" alt="Auf X folgen" /></a>
+<a href="https://codevostudio.de"><img src="assets/btn-website-de.svg" height="40" alt="Website" /></a>
+<a href="https://discord.gg/DftTSga3sh"><img src="assets/btn-discord-de.svg" height="40" alt="Discord beitreten" /></a>
+<a href="https://www.instagram.com/codevostudio/"><img src="assets/btn-instagram-de.svg" height="40" alt="Instagram" /></a>
+<a href="https://x.com/CodevoStudio"><img src="assets/btn-x-de.svg" height="40" alt="Auf X folgen" /></a>
 
 <br/><br/>
 
@@ -39,10 +39,10 @@ Ich baue eigene Web-Apps, Desktop-Tools, Discord-Bots und Spiele, die meisten da
 ### Projekte
 
 <p>
-  <a href="https://codevostudio.de/projects/localdrop"><img src="assets/card-localdrop.svg" width="49%" alt="LocalDrop" /></a>
-  <a href="https://codevostudio.de/projekte"><img src="assets/card-cshelper.svg" width="49%" alt="CS | Helper" /></a>
-  <a href="https://codevostudio.de/projects/toolbox"><img src="assets/card-toolbox.svg" width="49%" alt="Toolbox" /></a>
-  <a href="https://codevostudio.de/projects/frog-merge"><img src="assets/card-frogmerge.svg" width="49%" alt="Frog Merge" /></a>
+  <a href="https://codevostudio.de/projects/localdrop"><img src="assets/card-localdrop-de.svg" width="49%" alt="LocalDrop" /></a>
+  <a href="https://codevostudio.de/projekte"><img src="assets/card-cshelper-de.svg" width="49%" alt="CS | Helper" /></a>
+  <a href="https://codevostudio.de/projects/toolbox"><img src="assets/card-toolbox-de.svg" width="49%" alt="Toolbox" /></a>
+  <a href="https://codevostudio.de/projects/frog-merge"><img src="assets/card-frogmerge-de.svg" width="49%" alt="Frog Merge" /></a>
 </p>
 
 <br/>
