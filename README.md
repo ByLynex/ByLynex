@@ -1,43 +1,68 @@
-<div align="center">
-
 <a href="https://codevostudio.de">
-  <img src="assets/logo.png" width="88" alt="CodevoStudio" />
+  <img src="assets/banner.svg" width="100%" alt="CodevoStudio – Independent software studio" />
 </a>
 
-# Hi, ich bin LYNEX
+<div align="center">
 
-**Gründer von [CodevoStudio](https://codevostudio.de)**, einem unabhängigen Software-Studio aus Deutschland.
-Ich baue eigene Web-Apps, Desktop-Tools, Discord-Bots und Spiele, die meisten kostenlos nutzbar.
+### Hey, I'm LYNEX 👋
+
+Founder of **[CodevoStudio](https://codevostudio.de)**, an independent software studio from Germany.<br/>
+I build my own web apps, desktop tools, Discord bots and games, most of them free to use.
+
+<br/>
 
 [![Website](https://img.shields.io/badge/codevostudio.de-0b0b0d?style=for-the-badge&logo=googlechrome&logoColor=white)](https://codevostudio.de)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DftTSga3sh)
+[![Discord](https://img.shields.io/discord/1130491330733289563?style=for-the-badge&logo=discord&logoColor=white&label=Discord&color=5865F2)](https://discord.gg/DftTSga3sh)
 [![Instagram](https://img.shields.io/badge/Instagram-0b0b0d?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codevostudio/)
 [![X](https://img.shields.io/badge/X-0b0b0d?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CodevoStudio)
 
 </div>
 
----
+<br/>
 
-### Projekte
+## 🚀 Projects
 
-| | Projekt | Worum es geht | Status |
-|---|---|---|---|
-| <img src="assets/LocalDrop.png" width="36" /> | **[LocalDrop](https://codevostudio.de/projects/localdrop)** | Dateien zwischen deinen Geräten senden, ohne Cloud und ohne Account | 🟢 Live |
-| <img src="assets/CSHelper.png" width="36" /> | **[CS \| Helper](https://codevostudio.de/projekte)** | Öffentlicher Moderations- und Utility-Bot für Discord | 🟡 In Entwicklung |
-| <img src="assets/Toolbox.png" width="36" /> | **[Toolbox](https://codevostudio.de/projects/toolbox)** | Praktische kleine Tools für den Alltag, direkt im Browser | 🟡 In Entwicklung |
-| <img src="assets/Frog-Merge.png" width="36" /> | **[Frog Merge](https://codevostudio.de/projects/frog-merge)** | Merge-Browsergame mit über 50 Fröschen | ⚪ Pausiert |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/LocalDrop.png" width="44" align="left" />
+      <b><a href="https://codevostudio.de/projects/localdrop">LocalDrop</a></b> &nbsp;<img src="https://img.shields.io/badge/live-34d399?style=flat-square" /><br/>
+      <sub>Send files between your devices. No cloud, no account, just drag and drop.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/CSHelper.png" width="44" align="left" />
+      <b><a href="https://codevostudio.de/projekte">CS | Helper</a></b> &nbsp;<img src="https://img.shields.io/badge/in_development-fbbf24?style=flat-square" /><br/>
+      <sub>Public moderation and utility bot for Discord servers.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/Toolbox.png" width="44" align="left" />
+      <b><a href="https://codevostudio.de/projects/toolbox">Toolbox</a></b> &nbsp;<img src="https://img.shields.io/badge/in_development-fbbf24?style=flat-square" /><br/>
+      <sub>Handy little tools for everyday tasks, right in your browser.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/Frog-Merge.png" width="44" align="left" />
+      <b><a href="https://codevostudio.de/projects/frog-merge">Frog Merge</a></b> &nbsp;<img src="https://img.shields.io/badge/paused-71717a?style=flat-square" /><br/>
+      <sub>Merge browser game with 50+ unique frogs to unlock.</sub>
+    </td>
+  </tr>
+</table>
 
-### Womit ich arbeite
+## 🛠️ Tech stack
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=flat-square&logo=electron&logoColor=9FEAF9)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</p>
 
-### Gerade
+## ⚡ Right now
 
-- 🔨 Arbeite an **CS | Helper** und **Toolbox**
-- 💬 Feedback, Ideen oder Fehler? Am schnellsten im [Discord](https://discord.gg/DftTSga3sh) oder über [codevostudio.de/kontakt](https://codevostudio.de/kontakt)
+- 🔨 Working on **CS | Helper** and **Toolbox**
+- 💬 Feedback, ideas or a bug? Fastest on **[Discord](https://discord.gg/DftTSga3sh)** or via **[codevostudio.de/kontakt](https://codevostudio.de/kontakt)**
+- 🇩🇪 Lieber auf Deutsch? Alles dazu auf **[codevostudio.de](https://codevostudio.de)**

@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="CodevoStudio – Independent software studio">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d0d10"/>
+      <stop offset="1" stop-color="#0a0a0c"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="78%" cy="45%" r="45%">
+      <stop offset="0" stop-color="#409cd1" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#409cd1" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="core" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.9"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.04"/>
+    </pattern>
+    <style>
+      .t { font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+      .orbit { transform-origin: 930px 170px; animation: spin 40s linear infinite; }
+      .float { animation: float 7s ease-in-out infinite; }
+      .pulse { transform-origin: 930px 170px; animation: pulse 5s ease-in-out infinite; }
+      .ring { transform-box: fill-box; transform-origin: center; animation: ping 2.8s ease-out infinite; }
+      .r2 { animation-delay: 0.7s; } .r3 { animation-delay: 1.4s; } .r4 { animation-delay: 2.1s; }
+      .rise { opacity: 0; animation: rise 0.9s ease-out forwards; }
+      .d1 { animation-delay: 0.1s; } .d2 { animation-delay: 0.3s; } .d3 { animation-delay: 0.5s; }
+      @keyframes spin { to { transform: rotate(360deg); } }
+      @keyframes float { 0%, 100% { transform: translateY(-6px); } 50% { transform: translateY(6px); } }
+      @keyframes pulse { 0%, 100% { opacity: 0.75; transform: scale(1); } 50% { opacity: 1; transform: scale(1.12); } }
+      @keyframes ping { 0% { opacity: 0.9; transform: scale(0.6); } 100% { opacity: 0; transform: scale(2.4); } }
+      @keyframes rise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="340" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="20" fill="url(#grid)"/>
+  <rect width="1200" height="340" rx="20" fill="url(#glow)"/>
+  <rect x="0.5" y="0.5" width="1199" height="339" rx="19.5" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+
+  <g class="t">
+    <text x="72" y="104" class="rise d1" fill="#409cd1" font-size="15" font-weight="700" letter-spacing="3">INDEPENDENT SOFTWARE STUDIO</text>
+    <text x="70" y="178" class="rise d2" fill="#ffffff" font-size="68" font-weight="800" letter-spacing="-2">CodevoStudio</text>
+    <text x="72" y="226" class="rise d3" fill="#a5a3ad" font-size="22">Web apps, desktop tools, Discord bots &amp; games.</text>
+    <g class="rise d3">
+      <circle cx="80" cy="272" r="5" fill="#34d399"/>
+      <text x="96" y="278" fill="#d4d4d8" font-size="16">Built in Germany · mostly free to use</text>
+    </g>
+  </g>
+
+  <g class="float">
+    <circle cx="930" cy="170" r="70" fill="url(#core)" class="pulse"/>
+    <g fill="none" stroke="#ffffff" stroke-opacity="0.75" stroke-width="1.2">
+      <polygon points="930,70 1010,120 1010,220 930,270 850,220 850,120"/>
+      <polygon points="930,70 980,170 930,270"/>
+      <polygon points="930,70 880,170 930,270"/>
+      <line x1="850" y1="120" x2="1010" y2="220"/>
+      <line x1="1010" y1="120" x2="850" y2="220"/>
+    </g>
+    <g class="orbit">
+      <ellipse cx="930" cy="170" rx="160" ry="56" fill="none" stroke="#ffffff" stroke-opacity="0.2" transform="rotate(18 930 170)"/>
+      <ellipse cx="930" cy="170" rx="160" ry="44" fill="none" stroke="#ffffff" stroke-opacity="0.14" transform="rotate(-24 930 170)"/>
+      <circle cx="1078" cy="221" r="3.5" fill="#ffffff"/>
+      <circle cx="790" cy="231" r="2.6" fill="#94cae8"/>
+    </g>
+    <g fill="#ffffff">
+      <circle cx="850" cy="120" r="4"/><circle cx="1010" cy="120" r="4"/>
+      <circle cx="850" cy="220" r="4"/><circle cx="1010" cy="220" r="4"/>
+    </g>
+    <g fill="none" stroke="#ffffff" stroke-width="1.2">
+      <circle class="ring" cx="850" cy="120" r="8"/>
+      <circle class="ring r2" cx="1010" cy="120" r="8"/>
+      <circle class="ring r3" cx="1010" cy="220" r="8"/>
+      <circle class="ring r4" cx="850" cy="220" r="8"/>
+    </g>
+  </g>
+</svg>
