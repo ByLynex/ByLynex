@@ -4,10 +4,10 @@
 
 # Hi, ich bin LYNEX
 
-<img src="assets/rotate-v2.svg" height="36" alt="Ich baue Web-Apps, Desktop-Tools, Discord-Bots, Spiele und eigene Produkte" />
+<img src="assets/rotate-v2.svg" height="36" alt="Ich baue Websites, Web-Apps, Desktop-Tools und Discord-Bots" />
 
 Gründer von **[CodevoStudio](https://codevostudio.de)**, einem unabhängigen Software-Studio aus Deutschland.<br/>
-Ich baue eigene Web-Apps, Desktop-Tools, Discord-Bots und Spiele, die meisten davon kostenlos nutzbar.
+Ich baue Websites, Web-Apps, Desktop-Tools und Discord-Bots, die meisten davon kostenlos nutzbar.
 
 <br/>
 
